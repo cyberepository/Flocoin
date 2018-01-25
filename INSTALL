@@ -1,0 +1,9 @@
+Building Flocoin
+
+See doc/readme-qt.rst for instructions on building Flocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Flocoin.
+
+See doc/build-*.txt for instructions on building flocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Flocoin.
